@@ -1,0 +1,3 @@
+# selasticsearch
+
+sudo setup.sh
